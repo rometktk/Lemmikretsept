@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Protest+Guerrilla&display=swap');
+
+
+body{
+    background-color: rgb(154, 154, 231);
+    color: #d9ff00; 
+
+}
+
+.pealkiri{
+    text-align: center;
+    font-family: "Protest Guerrilla", system-ui;
+    
+}
+
+.pilt{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  width: 300px;
+  border-radius: 20px;
+}
+
+.ingredients{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin-left: 20rem;
+
+}
+
+.instructions{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.instructions ol{
+    margin: 0 auto;
+    width: 75%;
+    border: 4px solid rgb(67, 120, 233);
+}
+
+
+.footer{
+    text-align: center;
+    margin-right: 45rem;
+}
